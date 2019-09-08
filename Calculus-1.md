@@ -6,7 +6,7 @@ We summarise the most important skills in ... and link to the corresponding exer
 
 ## Derivatives
 
-We neeed to know the following formulas to compute basic derivatives:
+We need to know the following formulas to compute basic derivatives:
 
 $$(e^x)' = e^x
 \quad\quad\quad\quad
