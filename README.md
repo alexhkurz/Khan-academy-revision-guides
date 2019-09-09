@@ -10,5 +10,7 @@ Both points are due to the fact that Khan academy breaks down each subject in a 
 
 Here I only address the first item. I plan to put up a number of revision guides, that can be used for students who either need to revise the basic skills of a subject eg for an examination or who just want to get quickly to the most important skills. I call them revision guides, because the selection is not meant to help students actually understanding the maths, rather it aims at giving the quickest access to the most important skills. But I can see students who prefer to learn the subject via the skills.
 
-[Calculus-1](https://hackmd.io/@m5rnD-8SSPuuSHTKgXvMjg/HJWenF2BH)
+[Calculus 1](https://hackmd.io/@m5rnD-8SSPuuSHTKgXvMjg/HJWenF2BH)
+
+[Precalculus](https://hackmd.io/@m5rnD-8SSPuuSHTKgXvMjg/SJ9W6g7LB)
 
