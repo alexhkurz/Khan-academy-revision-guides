@@ -1,4 +1,4 @@
-# Precalculus
+# Precalculus - A Khan academy revision guide
 
 (under construction)
 
@@ -8,7 +8,7 @@ The exercises are those that you really need to be able to do in order to claim 
 
 There are also links to exercises in paragraphs entitled "Need to know", but if you feel confident that you understand what the paragraph says, you may skip them.
 
-Of course, to if you want to learn more the excellent videos of Khan are highly recommended. But I believe the course can be done without. Strictly speaking, all you need to know to solve the exercises is on this page (assuming that you have learned the subjects on which precalculus builds ... but appropriate references for revision will be added in the future ...)
+Of course, if you want to learn more, the excellent videos of Khan are highly recommended. But I believe the course can be done without. Strictly speaking, all you need to know to solve the exercises is on this page (assuming that you have learned the subjects on which precalculus builds ... appropriate references for revision will be added in the future.)
 
 ## Complex Numbers
 
