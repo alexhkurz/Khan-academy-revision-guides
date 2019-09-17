@@ -14,3 +14,6 @@ Here I only address the first item. I plan to put up a number of revision guides
 
 [Precalculus](https://hackmd.io/@m5rnD-8SSPuuSHTKgXvMjg/SJ9W6g7LB)
 
+[High-school algebra](https://hackmd.io/@m5rnD-8SSPuuSHTKgXvMjg/S1mc96a8r)
+
+
