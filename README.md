@@ -1,5 +1,7 @@
 # Khan-academy-revision-guides
 
+(this project has been temporarily abandoned ... I will take it up again when I have students who need it)
+
 Khan academy is great resource for learning and revising maths. Nevertheless I can see two disadvantages.
 
 - Khan academy makes learning mathematics slow. 
