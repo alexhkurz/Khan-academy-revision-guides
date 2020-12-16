@@ -14,10 +14,10 @@ Here I only address the first item. I plan to put up a number of revision guides
 
 On the other hand, I can also see students who prefer to start learning from the end, first going for the skills and then asking later how it and why it works. 
 
-[Calculus 1](https://hackmd.io/@m5rnD-8SSPuuSHTKgXvMjg/HJWenF2BH)
+[Calculus 1](https://hackmd.io/@alexhkurz/HJWenF2BH)
 
-[Precalculus](https://hackmd.io/@m5rnD-8SSPuuSHTKgXvMjg/SJ9W6g7LB)
+[Precalculus](https://hackmd.io/@alexhkurz/SJ9W6g7LB)
 
-[High-school algebra](https://hackmd.io/@m5rnD-8SSPuuSHTKgXvMjg/S1mc96a8r)
+[High-school algebra](https://hackmd.io/@alexhkurz/S1mc96a8r)
 
 
